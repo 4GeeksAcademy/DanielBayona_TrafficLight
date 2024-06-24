@@ -1,0 +1,26 @@
+.traffic-light{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-top: 15px;
+    cursor: pointer;
+}
+
+.red-light{
+    background-color: red;
+}
+
+.orange-light{
+    background-color: orange;
+}
+
+.green-light{
+    background-color: green;
+}
+
+.on{
+    box-shadow: 0 0 10px 5px rgba(255, 255, 0, 0.5);
+}
