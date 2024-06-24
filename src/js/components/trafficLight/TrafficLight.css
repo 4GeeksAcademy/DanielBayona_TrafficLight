@@ -21,6 +21,10 @@
     background-color: green;
 }
 
+.purple-light{
+    background-color: purple;
+    margin-bottom: 10px;
+}
 .on{
     box-shadow: 0 0 10px 5px rgba(255, 255, 0, 0.5);
 }
